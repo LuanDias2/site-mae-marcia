@@ -1,0 +1,7 @@
+Dockerfile
+fly.toml
+nginx.conf
+
+
+.vscode/
+.env
